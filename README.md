@@ -1,11 +1,6 @@
 
 # 🚀 AI Model Inference Optimization Capstone Project
 
-**Submission Date:** May 4, 2025
-**Team Number:** TBD
-**Team Leader:** TBD
-**Team Members:** TBD
-
 ---
 
 ## 📌 Overview

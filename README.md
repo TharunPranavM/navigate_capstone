@@ -129,23 +129,6 @@ Deploy and optimize on:
   * Avg Latency: 1.395s
   * Peak GPU Memory: 4103 MB
 
----
-
-## ⚙️ How to Reproduce
-
-```bash
-# Clone Repository
-git clone https://github.com/your-org/ai-inference-optimization.git
-cd ai-inference-optimization
-
-# Build Docker Container
-docker build -t inference-opt .
-
-# Run Jupyter
-docker run -p 8888:8888 inference-opt
-```
-
-> Note: Please refer to `/scripts` for inference benchmarking and `/notebooks` for reproducibility demos.
 
 ---
 
